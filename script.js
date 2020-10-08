@@ -4,6 +4,7 @@
 //Grid shall have reset button
 console.log("We are linked!")
 
+
 let playerTurn = "X"
 let moves = [
     "", "", "", 
